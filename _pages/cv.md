@@ -17,14 +17,11 @@ Education
 
 Academic Position
 ======
-* 2025.07– Research Assistant Professor
-  * Hong Kong Baptist University
+* 2025.07–present Research Assistant Professor, Hong Kong Baptist University
 
-* 2024.09–2025.01 Visiting Fellow
-  * Harvard University
+* 2024.09–2025.01 Visiting Fellow, Harvard University
 
-* 2023.04–2023.09 Visiting Fellow
-  * Harvard University
+* 2023.04–2023.09 Visiting Fellow, Harvard University
 
 Journal Publications 
 ======
