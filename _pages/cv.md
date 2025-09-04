@@ -18,9 +18,7 @@ Education
 Academic Position
 ======
 * 2025.07–present Research Assistant Professor, Hong Kong Baptist University
-
 * 2024.09–2025.01 Visiting Fellow, Harvard University
-
 * 2023.04–2023.09 Visiting Fellow, Harvard University
 
 Journal Publications 
@@ -52,7 +50,7 @@ Wang, F., Gao, M., Carmichael, G.R. 2024. Air quality and climate interactions. 
   
 Teaching
 ======
-2023-2024 S2 Teaching Assistant, GEOG4005 Advanced Climatology
-2022-2023 S2 Teaching Assistant, GEOG4005 Advanced Climatology
-2022-2023 S1 Teaching Assistant, GEOG4057 Selected Topics in the Geography of China
-2021-2022 S2 Teaching Assistant, GEOG4005 Advanced Climatology
+* 2023-2024 S2 Teaching Assistant, GEOG4005 Advanced Climatology
+* 2022-2023 S2 Teaching Assistant, GEOG4005 Advanced Climatology
+* 2022-2023 S1 Teaching Assistant, GEOG4057 Selected Topics in the Geography of China
+* * 2021-2022 S2 Teaching Assistant, GEOG4005 Advanced Climatology
