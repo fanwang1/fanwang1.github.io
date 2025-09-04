@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Fan Wang's Personal Homepage"
+title                    : "Fan Wang"
 title_separator          : "-"
 name                     : &name "Fan Wang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "fanwang1/fanwang1.github.io"
 author:
   # Biographic information
   avatar           : "fanwang.png"
-  name             : "Fan Wang"
+  name             : #"Fan Wang"
   pronouns         : # example: "she/her"  
   bio              : # 
   location         : "AAB1219"
