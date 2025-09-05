@@ -53,4 +53,4 @@ Teaching
 * 2023-2024 S2 Teaching Assistant, GEOG4005 Advanced Climatology
 * 2022-2023 S2 Teaching Assistant, GEOG4005 Advanced Climatology
 * 2022-2023 S1 Teaching Assistant, GEOG4057 Selected Topics in the Geography of China
-* * 2021-2022 S2 Teaching Assistant, GEOG4005 Advanced Climatology
+* 2021-2022 S2 Teaching Assistant, GEOG4005 Advanced Climatology
