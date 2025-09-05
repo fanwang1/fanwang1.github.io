@@ -11,26 +11,39 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+**Journal Publications**
+======
+**2025**
+Wang, F. and Gao, M., 2025. Reduced aerosols and intensified summertime rainfall in India during the pandemic suggest potentially more amplified precipitation in the future. Environmental Research Letters, 20(2), p.024038.
+Zhang, Z., Li, Q., Hu, Q., Xue, J., Liu, T., Tang, Z., Wang, F., Zhang, C., Lu, C., Wang, Z., Gao, M. and Liu, C., 2025. Deep learning approach for reconstructing three-dimensional distribution of NO2 on an urban scale. Remote Sensing of Environment, 321, 114678.
 
+**2024**
+Wang, F., Gao, M., Liu, C., Zhao, R. and McElroy, M.B., 2024. Uniformly elevated future heat stress in China driven by spatially heterogeneous water vapor changes. Nature Communications, 15(1), p.4522.
+Wang, F., Xu, Y., Patel, P.N., Gautam, R., Gao, M., Liu, C., Ding, Y., Chen, H., Yang, Y., Zhou, Y., Carmichael, G.R. and McElroy, M.B., 2024. Arctic amplification–induced decline in West and South Asia dust warrants stronger anti-desertification toward carbon neutrality. Proceedings of the National Academy of Sciences (PNAS), 121(14), p.e2317444121. 
+Wang, F., Lu, Z., Lin, G., Carmichael, G.R. and Gao, M., 2024. Brown Carbon in East Asia: Seasonality, Sources, and Influences on Regional Climate and Air Quality. ACS Environmental Au, 5(1), pp.128-137.
+Gao, M.#, Wang, F.#, Xu, Y., Chen, J., Lu, X. and Carmichael, G.R., 2024. Future intensification of co-occurrences of heat, PM2.5 and O3 extremes in China and India despite stringent air pollution controls. Environmental Research Letters, 20(1), p.014044.
+Zhang, X., Lu, X., Wang, F., Zhou, W., Wang, P. and Gao, M., 2024. Enhanced late spring ozone in Southern China by early onset of the South China Sea summer monsoon. Journal of Geophysical Research: Atmospheres, 129(4), p.e2023JD039029.
+
+**2023**
+Gao, M. #, Wang, F. #, Ding, Y., Wu, Z., Xu, Y., Lu, X., Wang, Z., Carmichael, G.R., and McElroy, M.B., 2023. Large-scale climate patterns offer preseasonal hints on the co-occurrence of heat wave and O3 pollution in China. Proceedings of the National Academy of Sciences (PNAS), 120(26), p.e2218274120.
+Wang, F., Wang, Y. and Gao, M., 2023. Impact of lake-atmosphere exchange on summertime ozone in the Lake Taihu region. Atmospheric Environment, 300, p.119664.
+Zhang, X., Xiao, X., Wang, F., Yang, Y., Liao, H., Wang, S. and Gao, M., 2023. Discordant future climate-driven changes in winter PM2.5 pollution across India under a warming climate. Elementa: Science of the Anthropocene, 11(1).
+Zhang, X., Zhou, C., Zhang, Y., Lu, X., Xiao, X., Wang, F., Song, J., Guo, Y., Leung, K.K., Cao, J. and Gao, M., 2023. Where to place methane monitoring sites in China to better assist carbon management. npj Climate and Atmospheric Science, 6(1), p.32.
+Yang, Q., Kim, J., Cho, Y., Lee, W.J., Lee, D.W., Yuan, Q., Wang, F., Zhou, C., Zhang, X., Xiao, X. and Guo, M., 2023. A synchronized estimation of hourly surface concentrations of six criteria air pollutants with GEMS data. npj climate and atmospheric science, 6(1), p.94.
+Zhu, L., Lu, C., Xu, X., He, X., Li, J., Luo, S., Wang, Y. and Wang, F., 2023. The Probability Density Function Related to Shallow Cumulus Entrainment Rate and Its Influencing Factors in a Large-Eddy Simulation. Advances in Atmospheric Sciences, pp.1-15.
+
+**2022**
+Wang, F., Carmichael, G., Zang, X., Xiao, X., and Gao, M.,2022. Pollution severity-regulated effects of roof strategies on China’s winter PM2.5, npj Climate and Atmospheric Science, 5(1), pp.1-9.
+Wang, F., Carmichael, G.R., Wang, J., Chen, B., Huang, B., Li, Y., Yang, Y. and Gao, M., 2022. Circulation-regulated impacts of aerosol pollution on urban heat island in Beijing. Atmospheric Chemistry and Physics, 22(20), pp.13341-13353.
+Li, J., Yue, Z., Lu, C., Chen, J., Wu, X., Xu, X., Luo, S., Zhu, L., Wu, S., Wang, F. and He, X., 2022. Convective Entrainment Rate over the Tibetan Plateau and Its Adjacent Regions in the Boreal Summer Using SNPP-VIIRS. Remote Sensing, 14(9), p.2073.
+
+**2021**
+Wang, F. and Wang, Y., 2021. Potential role of local contributions to record-breaking high-temperature event in Xiamen, China. Weather and Climate Extremes, 33, p.100338.
+Wang, F., Li, Q. and Wang, Y., 2021. Lake-atmosphere exchange impacts ozone simulation around a large shallow lake with large cities. Atmospheric Environment, 246, p.118086.
+Xing, C., Liu, C., Wu, H., Lin, J., Wang, F., Wang, S. and Gao, M., 2021. Ground-based vertical profile observations of atmospheric composition on the Tibetan Plateau (2017–2019). Earth System Science Data, 13(10), pp.4897-4912.
+
+**Book Chapter**
+======
+Wang, F., Gao, M., Carmichael, G.R. 2024. Air quality and climate interactions. Air Quality, pp.345-358, Elsevier. 
 
 
